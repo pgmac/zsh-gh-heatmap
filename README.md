@@ -2,6 +2,8 @@
 
 A zsh plugin that shows your GitHub activity for the past 7 days as a coloured heatmap in your shell prompt — displayed only when you're inside a git repository.
 
+![gh-heatmap in action](screenshot.png)
+
 ```
 ■■■■■■■   ← 7 blocks, one per day (oldest → today)
 ```
