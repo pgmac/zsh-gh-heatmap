@@ -12,11 +12,11 @@ Colours map to contribution count per day:
 
 | Colour | Count |
 |--------|-------|
-| ░ dark gray | 0 |
-| 🟩 dark green | 1–2 |
-| 🟩 medium green | 3–5 |
-| 🟩 green | 6–10 |
-| 🟩 bright green | 11+ |
+| ![level 0](assets/level-0.svg) dark gray | 0 |
+| ![level 1](assets/level-1.svg) dark green | 1–2 |
+| ![level 2](assets/level-2.svg) medium green | 3–5 |
+| ![level 3](assets/level-3.svg) green | 6–10 |
+| ![level 4](assets/level-4.svg) bright green | 11+ |
 
 Activity data comes from the **GitHub GraphQL API** (full contribution calendar, including private repos) when a token is available, with a fallback to the **REST Events API** (public activity only) when it is not.
 
