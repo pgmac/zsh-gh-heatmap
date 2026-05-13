@@ -4,9 +4,7 @@ A zsh plugin that shows your GitHub activity for the past 7 days as a coloured h
 
 ![gh-heatmap in action](screenshot.png)
 
-```
-■■■■■■■   ← 7 blocks, one per day (oldest → today)
-```
+<img src="assets/level-4.svg"><img src="assets/level-3.svg"><img src="assets/level-3.svg"><img src="assets/level-2.svg"><img src="assets/level-2.svg"><img src="assets/level-1.svg"><img src="assets/level-0.svg">   ← 7 blocks, one per day (oldest → today)
 
 Colours map to contribution count per day:
 
